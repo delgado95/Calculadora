@@ -1,7 +1,12 @@
 # Calculadora
 Vamos montar uma calculadora
 
-João.P - > Subir a paginas html com dois botões 
--estilo : seja criativo.
+A calculadora foi montada usando :
+- html5
+- css3
+- js
 
-Guto - > Scripts da calculadora, pode subir em uma pasta que eu irei mexer por aqui.
+(não foi utilizado nenhum framework na montagem desse projeto)
+
+Foi utilizado o video, tutorial :
+https://www.youtube.com/watch?v=j59qQ7YWLxw
